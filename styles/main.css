@@ -77,12 +77,12 @@ to {
   
 }
 .mountain {
-  background-image: url(http://jvdc.me/assets/jvdcme-beautiful-photography-mountainscape.jpg);
+  background-image: url(https://wallpaperplay.com/walls/full/c/8/3/22121.jpg);
   background-color: #cccccc;
 }
 li {
   text-align: center;
-  float: right;
+  display: inline;
   list-style: none;
   margin-right: 225;
   margin-left: 50px;
