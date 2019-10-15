@@ -47,10 +47,15 @@ to {
 
 }
 
+.a {
+  text-decoration:none;
+}
+
 .nav {
   animation: fadein 5s;
   padding-top: 10px;
   text-align: center;
+  text-decoration:none;
 }
 .container {
   margin: 0 auto;
@@ -76,7 +81,7 @@ to {
   
 }
 .mountain {
-  background-image: url(https://hdwallpaperim.com/wp-content/uploads/2017/08/25/466304-landscape-abstract-red-mountains-Photoshop.jpg);
+  background-image: url(https://hdqwalls.com/download/mountains-landscape-dark-nature-4k-i0-1920x1080.jpg);
   background-color: #cccccc;
 }
 li {
