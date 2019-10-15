@@ -1,9 +1,174 @@
+* {
+  font-family: 'Roboto';
+  color: whitesmoke;
+  
+}
+
+* {
+  font-family: 'Roboto';
+  color: whitesmoke;
+  
+}
+.Title {
+  text-align: center;
+  margin-top: 0px;
+  padding-top: ;
+  padding-left: -25px;
+  border: 0px;
+  font-family: 'Roboto', lighter;
+  font-size: 40px;
+  left: 100;
+  color: whitesmoke;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0;
+}
+@keyframes fadein {
+from {
+  opacity: 0;
+}
+to {
+  opacity: 1;
+}
+}
+.Topline {
+  text-align: center;
+  margin-top: -73px;
+  border-top: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  font-size: 40px;
+  font-family: 'Roboto';
+      color: whitesmoke;
+}
+.titletotal {
+  animation: fadein 5s;
+  margin-top: 25px;
+}
+.bottom {
+  text-align: center;
+  font-family: 'Roboto';
+  margin-top: -25px;
+  font-size: 20px;
+      color: whitesmoke;
+
+}
+
+.nav {
+  animation: fadein 5s;
+  padding-top: 10px;
+  text-align: center;
+}
+.container {
+  margin: 0 auto;
+  text-align: center;
+
+}
+.header {
+  background-color: black;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 70px;
+  opacity: 0.4;
+
+}
+.container02 {
+ 
+  left: -500px;
+  right: -500px;
+  margin: 0;
+  padding-top: 200px;
+  padding-bottom: 275px;
+  
+}
+.mountain {
+  background-image: url(https://wallpaperplay.com/walls/full/f/d/0/22120.jpg);
+  background-color: #cccccc;
+}
+li {
+  text-align: center;
+  float: right;
+  list-style: none;
+  margin-right: 225;
+  margin-left: 50px;
+  font-size: 20px; 
+}
+.paragraph02 {
+ padding-bottom: 30px;
+  text-align: justify;
+}
+.container03 {
+  font-size: 15px;
+  background-color: lightgray;
+  margin-top: 0;
+  padding-top: 30px;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 30px;
+  display: inline-block;
+}
+.about {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-right: 10px;
+
+  text-align: center;
+}
 body {
-    color: blue;
-    background-color: black;
+  margin: 0;
 }
-
-h1 {
-   color: red; 
+.Graph {
+  align-content: center;
+  padding-left: 200px;
+  padding-right: 200px;
 }
-
+.container4 {
+  color: black;
+  font-size: 20px;
+  text-align: justify;
+  background-color: snow;
+  margin-top: 30;
+  padding-top: 30px;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 30px;
+  
+}
+.portfolio {
+  text-align: center;
+  padding-top: 30px;
+}
+.container5 {
+  overflow:visible;
+  margin: 0 auto;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  background-color: black;
+  left: 0;
+  right: 0;
+  margin: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  width: 100%;
+  
+}
+.Ending {
+  position: absolute;
+  padding-left: 300px;
+  padding-left: 300px;
+  color: aqua;
+  z-index: 1;
+  text-align: center;
+  font-size: 100px;
+  padding-top: 200px;
+}
+.Video01 {
+  position: absolute;
+  z-index: -1;
+}
+.information {
+  font-size: 25;
+  text-align: center;
+}
